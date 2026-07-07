@@ -7,8 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
