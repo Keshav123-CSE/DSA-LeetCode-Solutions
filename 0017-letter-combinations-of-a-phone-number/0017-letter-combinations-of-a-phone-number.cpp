@@ -1,46 +1,50 @@
 class Solution {
 public:
 
-    vector<string> ans;
-
-    vector<string> mp={
-        "",
-        "",
-        "abc",
-        "def",
-        "ghi",
-        "jkl",
-        "mno",
-        "pqrs",
-        "tuv",
-        "wxyz"
-    };
-
-    void solve(int index,string &digits,string temp)
-    {
-        if(index==digits.size())
-        {
-            ans.push_back(temp);
-            return;
-        }
-
-        string letters=mp[digits[index]-'0'];
-
-        for(char ch:letters)
-        {
-            temp.push_back(ch);
-
-            solve(index+1,digits,temp);
-
-            temp.pop_back();
-        }
-    }
-
     vector<string> letterCombinations(string digits) {
 
         if(digits.empty()) return {};
 
-        solve(0,digits,"");
+        vector<string> mp={
+            "",
+            "",
+            "abc",
+            "def",
+            "ghi",
+            "jkl",
+            "mno",
+            "pqrs",
+            "tuv",
+            "wxyz"
+        };
+
+        queue<string> q;
+
+        q.push("");
+
+        for(char digit:digits)
+        {
+            int size=q.size();
+
+            while(size--)
+            {
+                string cur=q.front();
+                q.pop();
+
+                for(char ch:mp[digit-'0'])
+                {
+                    q.push(cur+ch);
+                }
+            }
+        }
+
+        vector<string> ans;
+
+        while(!q.empty())
+        {
+            ans.push_back(q.front());
+            q.pop();
+        }
 
         return ans;
     }
