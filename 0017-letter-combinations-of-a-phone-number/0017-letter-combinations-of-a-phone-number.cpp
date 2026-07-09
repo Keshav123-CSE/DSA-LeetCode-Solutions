@@ -18,32 +18,23 @@ public:
             "wxyz"
         };
 
-        queue<string> q;
+        vector<string> ans;
 
-        q.push("");
+        ans.push_back("");
 
         for(char digit:digits)
         {
-            int size=q.size();
+            vector<string> next;
 
-            while(size--)
+            for(string s:ans)
             {
-                string cur=q.front();
-                q.pop();
-
                 for(char ch:mp[digit-'0'])
                 {
-                    q.push(cur+ch);
+                    next.push_back(s+ch);
                 }
             }
-        }
 
-        vector<string> ans;
-
-        while(!q.empty())
-        {
-            ans.push_back(q.front());
-            q.pop();
+            ans=next;
         }
 
         return ans;
