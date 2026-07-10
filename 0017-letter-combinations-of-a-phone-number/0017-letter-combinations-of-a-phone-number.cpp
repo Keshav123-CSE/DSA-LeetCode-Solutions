@@ -3,7 +3,7 @@ public:
 
 vector<string> result;
       
-        vector<string> phone={
+        vector<string> mp={
             "",
             "",
             "abc",
@@ -20,7 +20,7 @@ vector<string> result;
             result.push_back(temp);
             return;
         }
-        string letters = phone[nums[index] - '0'];
+        string letters = mp[nums[index] - '0'];
         for (char ch : letters) {
             temp.push_back(ch);
             solve(index+1, nums, temp);
