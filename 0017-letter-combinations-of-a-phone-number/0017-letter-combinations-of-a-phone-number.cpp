@@ -1,11 +1,9 @@
 class Solution {
 public:
 
-    vector<string> letterCombinations(string digits) {
-
-        if(digits.empty()) return {};
-
-        vector<string> mp={
+vector<string> result;
+      
+        vector<string> phone={
             "",
             "",
             "abc",
@@ -17,26 +15,36 @@ public:
             "tuv",
             "wxyz"
         };
-
-        vector<string> ans;
-
-        ans.push_back("");
-
-        for(char digit:digits)
-        {
-            vector<string> next;
-
-            for(string s:ans)
-            {
-                for(char ch:mp[digit-'0'])
-                {
-                    next.push_back(s+ch);
-                }
-            }
-
-            ans=next;
+        void solve(int index, string& nums, string& temp) {
+            if (index == nums.size()){
+            result.push_back(temp);
+            return;
+        }
+        string letters = phone[nums[index] - '0'];
+        for (char ch : letters) {
+            temp.push_back(ch);
+            solve(index+1, nums, temp);
+            temp.pop_back();
+        }
         }
 
-        return ans;
-    }
+          vector<string> letterCombinations(string nums) {
+            if(nums.empty())
+            return {};
+            string temp;
+           
+            solve(0, nums, temp);
+            return result;
+          }
+           
+        
 };
+          
+
+        
+
+
+
+
+
+     
