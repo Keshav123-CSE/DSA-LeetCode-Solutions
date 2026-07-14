@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0040-combination-sum-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
