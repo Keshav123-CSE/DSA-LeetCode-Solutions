@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0040-combination-sum-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -65,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
