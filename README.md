@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +119,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
