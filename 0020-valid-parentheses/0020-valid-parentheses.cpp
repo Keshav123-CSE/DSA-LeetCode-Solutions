@@ -11,14 +11,13 @@ public:
                 st.push(ch);
             }
 
-            // Closing brackets
             else {
 
-                // No opening bracket available
+                
                 if (st.empty())
                     return false;
 
-                // Check matching
+               
                 if ((ch == ')' && st.top() == '(') ||
                     (ch == ']' && st.top() == '[') ||
                     (ch == '}' && st.top() == '{')) {
