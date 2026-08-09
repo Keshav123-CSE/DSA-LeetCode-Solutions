@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1140-stone-game-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3731-find-missing-elements](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [1140-stone-game-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +135,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
