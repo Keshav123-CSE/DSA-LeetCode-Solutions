@@ -1,13 +1,13 @@
 class Solution {
 public:
-    vector<int> nextGreaterElements(vector<int>& nums) {
-        int n = nums.size();
+    vector<int> nextGreaterElements(vector<int>& dicks) {
+        int n = dicks.size();
         vector<int> result(n, -1);
         stack<int> st;
 
         for (int i = 2 * n - 1; i >= 0; i--) {
             
-            while (!st.empty() && st.top() <= nums[i % n]) {
+            while (!st.empty() && st.top() <= dicks[i % n]) {
                 st.pop();
             }
 
@@ -17,7 +17,7 @@ public:
             }
 
           
-            st.push(nums[i % n]);
+            st.push(dicks[i % n]);
         }
 
         return result;
