@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1140-stone-game-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -174,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
