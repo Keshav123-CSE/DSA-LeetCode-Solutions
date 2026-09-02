@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0155-min-stack](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1140-stone-game-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 ## Minimax
@@ -180,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
