@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -190,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
