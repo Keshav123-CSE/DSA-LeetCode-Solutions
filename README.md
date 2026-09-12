@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0460-lfu-cache](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3731-find-missing-elements](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
