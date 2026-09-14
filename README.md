@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0460-lfu-cache](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0402-remove-k-digits](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [3731-find-missing-elements](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0451-sort-characters-by-frequency](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,5 +261,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
