@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
