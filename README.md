@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0460-lfu-cache](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 ## Math
 | Problem Name | Difficulty |
