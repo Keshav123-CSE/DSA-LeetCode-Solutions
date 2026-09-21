@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+| [0344-reverse-string](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0344-reverse-string](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
