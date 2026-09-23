@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 <!---LeetCode Topics End-->
