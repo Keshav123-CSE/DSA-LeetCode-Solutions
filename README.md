@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
@@ -310,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Pigeonhole Principle
