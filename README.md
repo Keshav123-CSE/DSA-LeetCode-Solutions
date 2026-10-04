@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Pigeonhole Principle
