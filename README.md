@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 ## Hash Table
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0067-add-binary](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0067-add-binary](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1140-stone-game-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0735-asteroid-collision](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
