@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -352,4 +354,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
