@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0216-combination-sum-iii](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -364,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Keshav123-CSE/DSA-LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
